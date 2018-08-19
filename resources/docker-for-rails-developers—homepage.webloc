@@ -3,6 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>URL</key>
-	<string>http://www.informit.com/</string>
+	<string>https://pragprog.com/book/ridocker/docker-for-rails-developers</string>
 </dict>
 </plist>
