@@ -19,12 +19,12 @@ Learn everything you need to about the subject of this `eBook` project.
 Introduction
 Development
 A Brave New World
-[ ] Installing Docker
-[ ] Verifying Your Install
-[ ] Before We Begin
-[ ] Running a Ruby Script without Ruby Installed
-[ ] Generating a New Rails App without Ruby Installed
-[ ] Quick Recap
+[x] Installing Docker
+[x] Verifying Your Install
+[x] Before We Begin
+[x] Running a Ruby Script without Ruby Installed
+[x] Generating a New Rails App without Ruby Installed
+[x] Quick Recap
 Running a Rails App in a Container
 [ ] How Do We Run Our Rails App?
 [ ] Defining Our First Custom Image excerpt
