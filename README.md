@@ -26,13 +26,13 @@ A Brave New World
 [x] Generating a New Rails App without Ruby Installed
 [x] Quick Recap
 Running a Rails App in a Container
-[ ] How Do We Run Our Rails App?
-[ ] Defining Our First Custom Image excerpt
-[ ] Building Our Image
-[ ] Running a Rails Server with Our Image
-[ ] Reaching the App: Publishing Ports
-[ ] Binding the Rails Server to IP Addresses
-[ ] Quick Recap
+[x] How Do We Run Our Rails App?
+[x] Defining Our First Custom Image excerpt
+[x] Building Our Image
+[x] Running a Rails Server with Our Image
+[x] Reaching the App: Publishing Ports
+[x] Binding the Rails Server to IP Addresses
+[x] Quick Recap
 Fine-Tuning Our Rails Image
 [ ] Naming and Versioning Our Image
 [ ] A Default Command
