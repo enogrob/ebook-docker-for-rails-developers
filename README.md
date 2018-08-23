@@ -34,7 +34,7 @@ Running a Rails App in a Container
 [x] Binding the Rails Server to IP Addresses
 [x] Quick Recap
 Fine-Tuning Our Rails Image
-[ ] Naming and Versioning Our Image
+[x] Naming and Versioning Our Image
 [ ] A Default Command
 [ ] Ignoring Unnecessary Files
 [ ] The Image Build Cache
