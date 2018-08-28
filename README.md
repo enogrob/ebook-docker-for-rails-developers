@@ -35,7 +35,7 @@ Running a Rails App in a Container
 [x] Quick Recap
 Fine-Tuning Our Rails Image
 [x] Naming and Versioning Our Image
-[ ] A Default Command
+[x] A Default Command
 [ ] Ignoring Unnecessary Files
 [ ] The Image Build Cache
 [ ] Solving a Caching Problem
