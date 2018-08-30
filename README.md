@@ -16,6 +16,7 @@ Learn everything you need to about the subject of this `eBook` project.
 
 ## Topics
 ```
+<<<<<<< HEAD
 Introduction
 Development
 A Brave New World
@@ -82,4 +83,22 @@ Towards Production
 [ ] The Production Landscape
 [ ] Creating a Cluster
 [ ] Deploying and Scaling Your App
+=======
+[x] Introduction
+[x] 1. A Brave New World
+[x] 2. Running a Rails App in a Container
+[ ] 3. Fine-Tuning Our Rails Image
+[ ] 4. Describing Our App Declaratively with Docker Compose
+[ ] 5. Beyond the App: Adding Redis
+[ ] 6. Adding a Database: Postgres
+[ ] 7. Playing Nice with Javascript
+[ ] 8. Testing in a Dockerized Environment
+[ ] 9. Advanced Gem Management Strategies
+[ ] 10. Some Minor Irritations
+[ ] 11. The Production Landscape
+[ ] 12. Preparing for Production
+[ ] 13. Production-Like Playground
+[ ] 14. Deploying to the Cloud . .
+[ ] 15. Closing Thoughts and Next Steps
+>>>>>>> 18adb734b77baa44ee7fdb13c5c1abb280f6c11e
 ```
