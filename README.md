@@ -36,11 +36,11 @@ Running a Rails App in a Container
 Fine-Tuning Our Rails Image
 [x] Naming and Versioning Our Image
 [x] A Default Command
-[ ] Ignoring Unnecessary Files
-[ ] The Image Build Cache
-[ ] Solving a Caching Problem
-[ ] The Finishing Touch
-[ ] Quick Recap
+[x] Ignoring Unnecessary Files
+[x] The Image Build Cache
+[x] Solving a Caching Problem
+[x] The Finishing Touch
+[x] Quick Recap
 Describing Our App Declaratively with Docker Compose
 [ ] Getting Started with Compose
 [ ] Launching Our App
