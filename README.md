@@ -43,12 +43,12 @@ Fine-Tuning Our Rails Image
 [x] The Finishing Touch
 [x] Quick Recap
 Describing Our App Declaratively with Docker Compose
-[ ] Getting Started with Compose
-[ ] Launching Our App
-[ ] Mounting a Local Volume
-[ ] Starting and Stopping Services excerpt
-[ ] Other Common Tasks
-[ ] Quick Recap
+[x] Getting Started with Compose
+[x] Launching Our App
+[x] Mounting a Local Volume
+[x] Starting and Stopping Services excerpt
+[x] Other Common Tasks
+[x] Quick Recap
 Beyond the App: Adding Redis
 [ ] Starting a Redis Server
 [ ] Manually Connecting to the Redis Server
