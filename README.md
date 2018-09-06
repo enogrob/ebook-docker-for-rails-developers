@@ -50,8 +50,8 @@ Describing Our App Declaratively with Docker Compose
 [x] Other Common Tasks
 [x] Quick Recap
 Beyond the App: Adding Redis
-[ ] Starting a Redis Server
-[ ] Manually Connecting to the Redis Server
+[x] Starting a Redis Server
+[x] Manually Connecting to the Redis Server
 [ ] How Containers Can Talk to Each Other excerpt
 [ ] Our Rails App Talking to Redis
 [ ] Starting the Entire App with Docker Compose
