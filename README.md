@@ -16,7 +16,6 @@ Learn everything you need to about the subject of this `eBook` project.
 
 ## Topics
 ```
-<<<<<<< HEAD
 Introduction
 Development
 A Brave New World
@@ -52,10 +51,10 @@ Describing Our App Declaratively with Docker Compose
 Beyond the App: Adding Redis
 [x] Starting a Redis Server
 [x] Manually Connecting to the Redis Server
-[ ] How Containers Can Talk to Each Other excerpt
-[ ] Our Rails App Talking to Redis
-[ ] Starting the Entire App with Docker Compose
-[ ] Quick Recap
+[x] How Containers Can Talk to Each Other excerpt
+[x] Our Rails App Talking to Redis
+[x] Starting the Entire App with Docker Compose
+[x] Quick Recap
 Adding a Database: Postgres
 [ ] Starting a Postgres Server
 [ ] Connecting to Postgres from a Separate Container
@@ -100,5 +99,4 @@ Towards Production
 [ ] 13. Production-Like Playground
 [ ] 14. Deploying to the Cloud . .
 [ ] 15. Closing Thoughts and Next Steps
->>>>>>> 18adb734b77baa44ee7fdb13c5c1abb280f6c11e
 ```
