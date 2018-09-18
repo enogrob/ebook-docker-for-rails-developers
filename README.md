@@ -56,9 +56,9 @@ Beyond the App: Adding Redis
 [x] Starting the Entire App with Docker Compose
 [x] Quick Recap
 Adding a Database: Postgres
-[ ] Starting a Postgres Server
-[ ] Connecting to Postgres from a Separate Container
-[ ] Connecting Our Rails App to Postgres
+[x] Starting a Postgres Server
+[x] Connecting to Postgres from a Separate Container
+[x] Connecting Our Rails App to Postgres
 [ ] Using the Database in Practice
 [ ] Decoupling Data from the Container
 [ ] Quick Recap
