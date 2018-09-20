@@ -59,9 +59,9 @@ Adding a Database: Postgres
 [x] Starting a Postgres Server
 [x] Connecting to Postgres from a Separate Container
 [x] Connecting Our Rails App to Postgres
-[ ] Using the Database in Practice
-[ ] Decoupling Data from the Container
-[ ] Quick Recap
+[x] Using the Database in Practice
+[x] Decoupling Data from the Container
+[x] Quick Recap
 Testing in a Dockerized Environment
 [ ] Setting Up RSpec
 [ ] Our First Test

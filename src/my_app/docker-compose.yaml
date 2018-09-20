@@ -12,7 +12,7 @@ services:
     env_file:
       - .env/development/database
       - .env/development/web
-      
+
   redis:
     container_name: redis-container
     image: redis
@@ -21,3 +21,8 @@ services:
     image: postgres
     env_file:
       - .env/development/database
+    volumes:
+      - db-data:/var/lib/postgresql/data
+
+volumes:
+  db-data:
