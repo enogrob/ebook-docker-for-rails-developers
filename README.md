@@ -62,6 +62,12 @@ Adding a Database: Postgres
 [x] Using the Database in Practice
 [x] Decoupling Data from the Container
 [x] Quick Recap
+Playing Nice with JavaScript
+[x] The JavaScript Front-End Options
+[ ] Rails JavaScript Front-End with Webpacker
+[ ] Compiling Assets with Webpacker
+[ ] Hello World React App
+[ ] Quick Recap
 Testing in a Dockerized Environment
 [ ] Setting Up RSpec
 [ ] Our First Test
@@ -82,21 +88,4 @@ Towards Production
 [ ] The Production Landscape
 [ ] Creating a Cluster
 [ ] Deploying and Scaling Your App
-=======
-[x] Introduction
-[x] 1. A Brave New World
-[x] 2. Running a Rails App in a Container
-[ ] 3. Fine-Tuning Our Rails Image
-[ ] 4. Describing Our App Declaratively with Docker Compose
-[ ] 5. Beyond the App: Adding Redis
-[ ] 6. Adding a Database: Postgres
-[ ] 7. Playing Nice with Javascript
-[ ] 8. Testing in a Dockerized Environment
-[ ] 9. Advanced Gem Management Strategies
-[ ] 10. Some Minor Irritations
-[ ] 11. The Production Landscape
-[ ] 12. Preparing for Production
-[ ] 13. Production-Like Playground
-[ ] 14. Deploying to the Cloud . .
-[ ] 15. Closing Thoughts and Next Steps
 ```
