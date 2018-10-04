@@ -64,7 +64,7 @@ Adding a Database: Postgres
 [x] Quick Recap
 Playing Nice with JavaScript
 [x] The JavaScript Front-End Options
-[ ] Rails JavaScript Front-End with Webpacker
+[x] Rails JavaScript Front-End with Webpacker
 [ ] Compiling Assets with Webpacker
 [ ] Hello World React App
 [ ] Quick Recap
