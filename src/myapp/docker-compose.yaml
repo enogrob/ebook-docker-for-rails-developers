@@ -1,0 +1,28 @@
+version: '3'
+services:
+  web:
+    container_name: web-container
+    build: .
+    image: my_app
+    command: rails s -b '0.0.0.0'
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/usr/src/app
+    env_file:
+      - .env/development/database
+      - .env/development/web
+
+  redis:
+    container_name: redis-container
+    image: redis
+
+  database:
+    image: postgres
+    env_file:
+      - .env/development/database
+    volumes:
+      - db-data:/var/lib/postgresql/data
+
+volumes:
+  db-data:

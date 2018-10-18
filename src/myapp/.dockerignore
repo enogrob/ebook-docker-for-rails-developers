@@ -1,0 +1,10 @@
+.git*
+.idea
+.ruby-gemset
+.ruby-version
+db/*.sqlite3
+db/*.sqlite3-journal
+log/*
+tmp/*
+Dockerfile
+docker-compose.yaml
