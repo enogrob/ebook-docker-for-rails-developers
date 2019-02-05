@@ -18,14 +18,14 @@ Learn everything you need to about the subject of this `eBook` project.
 ```
 Introduction
 Development
-A Brave New World
+1. A Brave New World
 [x] Installing Docker
 [x] Verifying Your Install
 [x] Before We Begin
 [x] Running a Ruby Script without Ruby Installed
 [x] Generating a New Rails App without Ruby Installed
 [x] Quick Recap
-Running a Rails App in a Container
+2. Running a Rails App in a Container
 [x] How Do We Run Our Rails App?
 [x] Defining Our First Custom Image excerpt
 [x] Building Our Image
@@ -33,7 +33,7 @@ Running a Rails App in a Container
 [x] Reaching the App: Publishing Ports
 [x] Binding the Rails Server to IP Addresses
 [x] Quick Recap
-Fine-Tuning Our Rails Image
+3. Fine-Tuning Our Rails Image
 [x] Naming and Versioning Our Image
 [x] A Default Command
 [x] Ignoring Unnecessary Files
@@ -41,51 +41,72 @@ Fine-Tuning Our Rails Image
 [x] Solving a Caching Problem
 [x] The Finishing Touch
 [x] Quick Recap
-Describing Our App Declaratively with Docker Compose
+4. Describing Our App Declaratively with Docker Compose
 [x] Getting Started with Compose
 [x] Launching Our App
 [x] Mounting a Local Volume
 [x] Starting and Stopping Services excerpt
 [x] Other Common Tasks
 [x] Quick Recap
-Beyond the App: Adding Redis
+5. Beyond the App: Adding Redis
 [x] Starting a Redis Server
 [x] Manually Connecting to the Redis Server
 [x] How Containers Can Talk to Each Other excerpt
 [x] Our Rails App Talking to Redis
 [x] Starting the Entire App with Docker Compose
 [x] Quick Recap
-Adding a Database: Postgres
+6. Adding a Database: Postgres
 [x] Starting a Postgres Server
 [x] Connecting to Postgres from a Separate Container
 [x] Connecting Our Rails App to Postgres
 [x] Using the Database in Practice
 [x] Decoupling Data from the Container
 [x] Quick Recap
-Playing Nice with JavaScript
+7. Playing Nice with JavaScript
 [x] The JavaScript Front-End Options
 [x] Rails JavaScript Front-End with Webpacker
 [ ] Compiling Assets with Webpacker
 [ ] Hello World React App
 [ ] Quick Recap
-Testing in a Dockerized Environment
+8. Testing in a Dockerized Environment
 [ ] Setting Up RSpec
 [ ] Our First Test
-[ ] Adding Feature Specs with Capybara
+[ ] Setting Up Rails System Tests
 [ ] Running Tests That Rely on JavaScript
+[ ] Debugging
 [ ] Quick Recap
-Advanced Gem Management Strategies
+9. Advanced Gem Management
 [ ] The Downside to Our Existing Approach
-[ ] Strategy 1: bundle add then “Commit”
-[ ] Strategy 2: Using a Gem Cache Volume
+[ ] Using a Gem Cache Volume
 [ ] Quick Recap
-Some Minor Irritations
+10. Some Minor Irritations
 [ ] Rails tmp/pids/server.pid Not Cleaned Up
 [ ] Compose Intermittently Aborts with Ctrl-C
 [ ] Quick Recap
 [ ] Closing Thoughts on Docker in Development
-Towards Production
-[ ] The Production Landscape
-[ ] Creating a Cluster
-[ ] Deploying and Scaling Your App
+11. The Production Landscape
+[ ] The "Ops" in DevOps
+[ ] Container Orchestration
+[ ] A Tale of Two Orchestrators: Swarm and Kubernetes
+[ ] IaaS vs CaaS
+[ ] Provisioning Your Infrastructure
+[ ] CaaS Platforms
+[ ] Serveless for Containers
+[ ] How to Decide What's Right for Me?
+[ ] Quick Recap
+12. Preparing for Production
+[ ] Configuring a Production Environment
+[ ] A Production Image: Precompiling Assets
+[ ] Sharing Images
+[ ] Quick Recap
+13. A Production-Like Playground
+[ ] Creating Machines
+[ ] Introducing Docker Swarm
+[ ] Our First (Single Node) Swarm
+[ ] Describing Our App to Swarm
+[ ] Migrating the Database
+[ ] Deploying Our App on a Swarm
+[ ] Tasks and Swarm’s Scaling Model
+[ ] Scaling Up the Service
+[ ] Quick Recap
 ```
