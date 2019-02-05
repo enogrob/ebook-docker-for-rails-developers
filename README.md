@@ -76,7 +76,7 @@ Development
 [ ] Debugging
 [ ] Quick Recap
 9. Advanced Gem Management
-[ ] The Downside to Our Existing Approach
+[x] The Downside to Our Existing Approach
 [ ] Using a Gem Cache Volume
 [ ] Quick Recap
 10. Some Minor Irritations
