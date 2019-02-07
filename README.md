@@ -77,8 +77,8 @@ Development
 [ ] Quick Recap
 9. Advanced Gem Management
 [x] The Downside to Our Existing Approach
-[ ] Using a Gem Cache Volume
-[ ] Quick Recap
+[x] Using a Gem Cache Volume
+[x] Quick Recap
 10. Some Minor Irritations
 [ ] Rails tmp/pids/server.pid Not Cleaned Up
 [ ] Compose Intermittently Aborts with Ctrl-C
