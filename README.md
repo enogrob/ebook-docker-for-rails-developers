@@ -80,7 +80,7 @@ Development
 [x] Using a Gem Cache Volume
 [x] Quick Recap
 10. Some Minor Irritations
-[ ] Rails tmp/pids/server.pid Not Cleaned Up
+[x] Rails tmp/pids/server.pid Not Cleaned Up
 [ ] Compose Intermittently Aborts with Ctrl-C
 [ ] Quick Recap
 [ ] Closing Thoughts on Docker in Development
