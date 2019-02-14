@@ -81,9 +81,9 @@ Development
 [x] Quick Recap
 10. Some Minor Irritations
 [x] Rails tmp/pids/server.pid Not Cleaned Up
-[ ] Compose Intermittently Aborts with Ctrl-C
-[ ] Quick Recap
-[ ] Closing Thoughts on Docker in Development
+[x] Compose Intermittently Aborts with Ctrl-C
+[x] Quick Recap
+[x] Closing Thoughts on Docker in Development
 11. The Production Landscape
 [ ] The "Ops" in DevOps
 [ ] Container Orchestration
