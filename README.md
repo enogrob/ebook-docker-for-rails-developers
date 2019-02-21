@@ -85,7 +85,7 @@ Development
 [x] Quick Recap
 [x] Closing Thoughts on Docker in Development
 11. The Production Landscape
-[ ] The "Ops" in DevOps
+[x] The "Ops" in DevOps
 [ ] Container Orchestration
 [ ] A Tale of Two Orchestrators: Swarm and Kubernetes
 [ ] IaaS vs CaaS
