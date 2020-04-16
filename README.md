@@ -69,12 +69,12 @@ Development
 [ ] Hello World React App
 [ ] Quick Recap
 8. Testing in a Dockerized Environment
-[ ] Setting Up RSpec
-[ ] Our First Test
-[ ] Setting Up Rails System Tests
-[ ] Running Tests That Rely on JavaScript
-[ ] Debugging
-[ ] Quick Recap
+[x] Setting Up RSpec
+[x] Our First Test
+[x] Setting Up Rails System Tests
+[x] Running Tests That Rely on JavaScript
+[x] Debugging
+[x] Quick Recap
 9. Advanced Gem Management
 [x] The Downside to Our Existing Approach
 [x] Using a Gem Cache Volume
